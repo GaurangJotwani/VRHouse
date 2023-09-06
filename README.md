@@ -26,10 +26,11 @@ The project includes a sample scene that showcases various VR Setup in Unity and
 
 
 ## Final Version
-https://media.github.khoury.northeastern.edu/user/13961/files/8bf5e208-7ec2-4641-b0e2-a14ab05ed993
+![image](https://github.com/GaurangJotwani/VRHouse/assets/48160866/c8af2bc9-72ce-42f8-9147-145b7a3288e5)
 
 
 
 ## Challenge Project
-https://media.github.khoury.northeastern.edu/user/13961/files/ec7f2820-65d0-4241-9bba-b4aee0e04bae
+![image](https://github.com/GaurangJotwani/VRHouse/assets/48160866/3b7b2bb3-e870-4640-940c-1ab3bb6cdab4)
+
 
